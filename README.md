@@ -30,4 +30,12 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/39rtdG2QoPIOISmS6KNdJDes8vy.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Ted Lasso, um técnico de futebol americano que se muda para a Inglaterra para treinar um time de futebol, apesar da falta de experiência. Com jogadores e cidade desconfiados, será que ele vai conseguir conquistá-los?</info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] TED LASSO 3º TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V5C6PUSBZJJW2GWROBWD7MTMRYMQTVPR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ted Lasso, um técnico de futebol americano que se muda para a Inglaterra para treinar um time de futebol, apesar da falta de experiência. Com jogadores e cidade desconfiados, será que ele vai conseguir conquistá-los?</info>
+</item>
